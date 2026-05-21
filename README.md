@@ -74,8 +74,3 @@ ideavault/
 
 ---
 
-## 🔒 Environment Variables
-
-**Client `.env`**
-```
-
