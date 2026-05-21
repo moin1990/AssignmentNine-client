@@ -49,8 +49,7 @@ npm run dev
 ### Server
 
 ```bash
-cd server
-npm install
+
 
 
 
