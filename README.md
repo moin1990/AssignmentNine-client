@@ -66,11 +66,5 @@ ideavault/
 │       ├── components/   # Navbar, Footer, IdeaCard, Layout, PrivateRoute, etc.
 │       ├── context/      # AuthContext, ThemeContext
 │       ├── hooks/        # useTitle
-│       └── pages/        # Home, Ideas, IdeaDetails, AddIdea, MyIdeas, etc.
-└── server/               # Express API
-    ├── middleware/        # JWT verifyToken
-    └── routes/           # ideas.js, comments.js, users.js
-```
-
----
+│       └── pages/        # Home, Ideas, IdeaDetails, AddIdea, 
 
