@@ -78,6 +78,4 @@ ideavault/
 
 **Client `.env`**
 ```
-VITE_FIREBASE_API_KEY=
-VITE_FIREBASE_AUTH_DOMAIN=
 
