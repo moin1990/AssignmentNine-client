@@ -1,6 +1,6 @@
 # IdeaVault – Startup Idea Sharing Platform
 
-🌐 **Live Site:** [https://ideavault.vercel.app](https://ideavault.vercel.app)
+🌐 **Live Site:** [https://assignment-nine-client.vercel.app/](https://assignment-nine-client.vercel.app/)
 
 > A community-driven platform where startup visionaries share, validate, and refine their ideas together.
 
