@@ -35,14 +35,7 @@
 
 ---
 
-## 🚀 Getting Started
 
-### Client
-
-```bash
-cd client
-npm install
-cp .env.example .env   # Fill in Firebase & API config
 
 
 
