@@ -60,11 +60,3 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-ideavault/
-├── client/               # React + Vite frontend
-│   └── src/
-│       ├── components/   # Navbar, Footer, IdeaCard, Layout, PrivateRoute, etc.
-│       ├── context/      # AuthContext, ThemeContext
-│       ├── hooks/        # useTitle
-│       └── pages/        # Home, Ideas, IdeaDetails, AddIdea, 
-
