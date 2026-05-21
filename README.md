@@ -43,10 +43,6 @@
 cd client
 npm install
 cp .env.example .env   # Fill in Firebase & API config
-npm run dev
-```
-
-### Server
 
 
 
