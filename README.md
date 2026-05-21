@@ -90,7 +90,4 @@ VITE_API_BASE_URL=https://your-server.onrender.com
 **Server `.env`**
 ```
 MONGODB_URI=mongodb+srv://...
-JWT_SECRET=your_secret_key
-PORT=5000
-CLIENT_URL=https://your-site.vercel.app
-```
+
