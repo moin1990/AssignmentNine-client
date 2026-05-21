@@ -89,5 +89,3 @@ VITE_API_BASE_URL=https://your-server.onrender.com
 
 **Server `.env`**
 ```
-MONGODB_URI=mongodb+srv://...
-
